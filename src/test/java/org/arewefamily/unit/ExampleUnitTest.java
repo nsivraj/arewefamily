@@ -24,7 +24,7 @@ public class ExampleUnitTest {
 
   @Test
   public void testVerticle() {
-    PingVerticle vert = new PingVerticle();
+    //PingVerticle vert = new PingVerticle();
 
     // do something with verticle
   }
